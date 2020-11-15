@@ -1,0 +1,4 @@
+server:
+  port: 18888
+
+rss: https://bulink.xyz/api/subscribe/?token=wygeyv&sub_type=vmess
